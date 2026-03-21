@@ -1,1 +1,1 @@
-print(1)
+print('genesis 6:11')
