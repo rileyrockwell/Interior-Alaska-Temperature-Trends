@@ -1,1 +1,1 @@
-print('genesis 6:11')
+print('some bullshit')
